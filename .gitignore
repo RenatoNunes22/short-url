@@ -1,0 +1,22 @@
+# Arquivos de log
+logs
+*.log
+
+# Arquivos de ambiente
+.env
+
+# Dependências do Node.js
+node_modules
+
+# Arquivos de build
+/build
+
+# Arquivos de configuração do IDE
+.vscode/
+.idea/
+
+# Arquivos de backup
+*.bak
+
+# Arquivos de cache
+.cache/
